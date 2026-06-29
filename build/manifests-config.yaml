@@ -53,3 +53,6 @@ map:
   odh-spark-operator:
     src: config
     dest: sparkoperator
+  odh-dashboard-operator:
+    src: ./manifests
+    dest: odh-dashboard-operator
